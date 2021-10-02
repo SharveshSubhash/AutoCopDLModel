@@ -1,7 +1,6 @@
-# AutoCopDLModel
 
 ## Objective
-* Raspberry Pi was the preferred microcontroller for this project as most of the Computer-vision code was written in Python.
+* Raspberry Pi was the preferred microcontroller for this project as all of the Computer-vision code was written in Python.
 * Since, none of our team members have ever worked with a Raspberry Pi, but were very well experienced with the Arduino IDE, we looked for ways to make Arduino code for the PID line-follower bot work on Raspberry Pi. And indeed! there was a way:-
 
 ### Instructions for Arduino IDE
